@@ -2,6 +2,6 @@
   <head>
   </head>
   <body>
-    <h1>Hello, berr!</h1>
+    <h1>Hello, beer!</h1>
   </body>
 </html>
